@@ -37,8 +37,6 @@ Your daily health ring animates from 0 to your real score as you log meals. The 
 
 ## 📱 App Preview
 
-## 📱 App Preview
-
 <div align="center">
 <table>
   <tr>
