@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Database-Room-purple" />
   <img src="https://img.shields.io/badge/AI-Gemini%201.5%20Flash-yellow?logo=google" />
   <img src="https://img.shields.io/badge/Auth-Credential%20Manager-red" />
-  <img src="https://img.shields.io/badge/License-Apache%202.0-lightgrey" />
+  <img src="https://img.shields.io/badge/License-MIT" />
 </p>
 
 ---
