@@ -42,7 +42,7 @@ Your daily health ring animates from 0 to your real score as you log meals. The 
   <img src="screenshots/todaysScreen.jpeg" width="250"/>
   <img src="screenshots/selectMethod.jpeg" width="250"/>
   <img src="screenshots/detailedMealScreen.jpeg" width="250"/>
-  <img src="screenshots/progressScreenjpeg" width="250"/>
+  <img src="screenshots/progressScreen.jpeg" width="250"/>
   <img src="screenshots/profileScreen.jpeg" width="250"/>
 </p>
 
