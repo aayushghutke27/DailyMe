@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Database-Room-purple" />
   <img src="https://img.shields.io/badge/AI-Gemini%201.5%20Flash-yellow?logo=google" />
   <img src="https://img.shields.io/badge/Auth-Credential%20Manager-red" />
-  <img src="https://img.shields.io/badge/License-MIT" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
 </p>
 
 ---
@@ -465,24 +465,23 @@ Through this project I deepened my understanding of:
 
 ## 👨‍💻 Author
 
-**Aayush Ghutke**
-Android Developer
+# Aayush Ghutke
+Android Developer • AI Enthusiast
 
-Building intelligent Android apps that combine data, design, and AI.
+Building intelligent Android experiences that combine AI, design, and scalable mobile engineering.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aayushghutke27/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/aayushghutke27)
+<p align="left">
+  <a href="https://www.linkedin.com/in/aayushghutke27/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aayush%20Ghutke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/aayushghutke27">
+    <img src="https://img.shields.io/badge/GitHub-@aayushghutke27-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📄 License
 
-```
-Copyright 2026 Aayush Ghutke
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-```
+This project is licensed under the MIT License.
