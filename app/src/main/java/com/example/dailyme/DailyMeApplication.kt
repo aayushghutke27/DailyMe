@@ -14,7 +14,7 @@ class DailyMeApplication : Application() {
         } catch (_: Exception) {
             // Fallback for cases where google-services.json isn't being picked up correctly
             val options = FirebaseOptions.Builder()
-                .setApiKey("AIzaSyCtAug0awUzGQc888ncb_izQzqR2lF6Sw8")
+                .setApiKey( BuildConfig.GEMINI_API_KEY_1)
                 .setApplicationId("1:991958363555:android:e5f1de7286d062fe893e16")
                 .setProjectId("pennywise-7d08a")
                 .setStorageBucket("pennywise-7d08a.firebasestorage.app")
