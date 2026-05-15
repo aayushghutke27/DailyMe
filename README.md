@@ -37,14 +37,32 @@ Your daily health ring animates from 0 to your real score as you log meals. The 
 
 ## 📱 App Preview
 
-<p align="center">
-  <img src="screenshots/onboarding.jpeg" width="250"/>
-  <img src="screenshots/todaysScreen.jpeg" width="250"/>
-  <img src="screenshots/selectMethod.jpeg" width="250"/>
-  <img src="screenshots/detailedMealScreen.jpeg" width="250"/>
-  <img src="screenshots/progressScreen.jpeg" width="250"/>
-  <img src="screenshots/profileScreen.jpeg" width="250"/>
-</p>
+## 📱 App Preview
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><b>Onboarding</b></td>
+    <td align="center"><b>Today's Screen</b></td>
+    <td align="center"><b>Select Method</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/onboarding.jpeg" width="220"/></td>
+    <td><img src="screenshots/todaysScreen.jpeg" width="220"/></td>
+    <td><img src="screenshots/selectMethod.jpeg" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Meal Detail</b></td>
+    <td align="center"><b>Progress</b></td>
+    <td align="center"><b>Profile</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/detailedMealScreen.jpeg" width="220"/></td>
+    <td><img src="screenshots/progressScreen.jpeg" width="220"/></td>
+    <td><img src="screenshots/profileScreen.jpeg" width="220"/></td>
+  </tr>
+</table>
+</div>
 
 <!-- <p align="center">
   <img src="screenshots/ai_insight.png" width="250"/>
